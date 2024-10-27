@@ -18,7 +18,6 @@ public class Barang implements TokoBangunan {
         this.stok = stok;
         this.harga = harga;
     }
-
     /**
      * Menghitung total harga untuk jumlah barang yang ditentukan.
      *
